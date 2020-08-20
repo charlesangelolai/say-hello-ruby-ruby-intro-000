@@ -7,3 +7,7 @@
 #  * Run `learn` again. Are you getting a different error? If you haven't seen this error, guess what it's trying to tell you then Google it with the word "ruby".
 # 3. Get all the tests to pass!
 # 4. Once all of the tests are passing, use `learn submit` to submit your lab.
+
+def say_hello(name = "Ruby Programmer")
+  "Hello #{name}"
+end
