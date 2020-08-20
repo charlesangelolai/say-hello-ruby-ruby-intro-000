@@ -9,5 +9,5 @@
 # 4. Once all of the tests are passing, use `learn submit` to submit your lab.
 
 def say_hello(name = "Ruby Programmer")
-  "Hello #{name}"
+  puts "Hello #{name}"
 end
