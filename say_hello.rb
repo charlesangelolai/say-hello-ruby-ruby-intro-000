@@ -8,6 +8,6 @@
 # 3. Get all the tests to pass!
 # 4. Once all of the tests are passing, use `learn submit` to submit your lab.
 
-def say_hello(name = "Ruby Programmer!")
-  puts "Hello #{name}"
+def say_hello(name = "Ruby Programmer")
+  puts "Hello #{name}!"
 end
